@@ -30,7 +30,7 @@ export class Test1Component implements OnInit {
     this.data = [];
 
    
-    for (let i = 0; i < 10; i++) {
+    for (let i = 0; i < 10000; i++) {
       this.data.push({
         id: i,
         name: randomWords({exactly: 3, join: ' '}),
