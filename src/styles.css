@@ -1,0 +1,14 @@
+/* You can add global styles to this file, and also import other style files */
+button {
+    background: #4d35aa;
+    color: #ccc;
+    font-size: 13px;
+    border: 1px solid #4d35aa;
+    border-radius: 2px;
+    transition: 0.6s;
+    margin: 2px;
+    float: right;
+    min-width: 80px;
+    padding: 5px;
+    cursor: pointer;
+  }
